@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage 
 {
+	// New comment
 	WebDriver driver;
 	 public LoginPage(WebDriver driver)
 	 {
